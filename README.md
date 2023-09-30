@@ -17,7 +17,17 @@ _Note: All tools are still in active development with lots of bugs_
 - Speed Test
 - Data Experience Test
 - Whois Lookup
-- DNA Lookup
+- DNS Lookup
 - Wake On LAN
 - Down Detector
 - Total IPs per country/region
+
+
+## Release Notes (Change Log)
+[RELEASE_NOTES.md](https://github.com/shaunroselt/Roselt-Network-Tools/blob/master/RELEASE_NOTES.md)
+
+
+## Third-Party Libraries
+Skia4Delphi: https://github.com/skia4delphi/skia4delphi
+
+Bootstrap Icons: https://github.com/shaunroselt/Delphi-Bootstrap-Icons
