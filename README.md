@@ -13,6 +13,9 @@ _Note: All tools are still in active development with lots of bugs_
 - Trace Route
 - Port Scanner
 - WiFi Scanner
+- Network Devices
 - Speed Test
 - Data Experience Test
-- Whois
+- Whois Lookup
+- DNA Lookup
+- Wake On LAN
