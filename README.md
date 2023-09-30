@@ -20,3 +20,4 @@ _Note: All tools are still in active development with lots of bugs_
 - DNA Lookup
 - Wake On LAN
 - Down Detector
+- Total IPs per country/region
