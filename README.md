@@ -19,3 +19,4 @@ _Note: All tools are still in active development with lots of bugs_
 - Whois Lookup
 - DNA Lookup
 - Wake On LAN
+- Down Detector
