@@ -21,6 +21,7 @@ _Note: All tools are still in active development with lots of bugs_
 - Wake On LAN
 - Down Detector
 - Total IPs per country/region
+- RJ45 Connector Wiring
 
 
 ## Release Notes (Change Log)
